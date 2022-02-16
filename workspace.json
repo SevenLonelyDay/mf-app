@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "projects": {
+    "gallery": "apps/gallery",
+    "shared-data-store": "libs/shared/data-store",
+    "shell": "apps/shell"
+  }
+}
